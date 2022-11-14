@@ -2,7 +2,7 @@
 // let v2 = 3.6;
 // let v3 = 4.2;
 //
-// let enginsVolume = [3, 3.6, 4.2];
+// let enginsVolume = [3, 3.6, 4.2];                                        //[]-елементи в дужках називаються ІНДЕКСАМИ
 // //let enginsVolume = [v1, v2, v3];-Побудова масиву через змінні
 // console.log(enginsVolume);
 //
@@ -31,7 +31,7 @@
 //                                     //array in array//
 // Масив описує багато сутностей (об'єктів)
 
-// let rap = ['coolio', '2pac', 'eminem', 'snoop dog'];
+// let rap = ['coolio', '2pac', 'eminem', 'snoop dog'];                 //
 // let rock = ['gueen','pink floyd','acdc']
 // let music = [rap, rock];
 // console.log(music);
