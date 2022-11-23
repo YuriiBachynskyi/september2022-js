@@ -1,0 +1,15 @@
+.product-card{
+    width: 200px;
+}
+.product-image{
+    width: 200px;
+}
+.product-title{
+    width: 100%;
+    margin-bottom:30px;
+    background:cadetblue;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
